@@ -1,0 +1,10 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\bin\Debug\MagicDatesApp.exe.config
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\bin\Debug\MagicDatesApp.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\bin\Debug\MagicDatesApp.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.csproj.AssemblyReference.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.Form1.resources
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.Properties.Resources.resources
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.csproj.GenerateResource.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.csproj.CoreCompileInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\MagicDates\MagicDatesApp\obj\Debug\MagicDatesApp.pdb
